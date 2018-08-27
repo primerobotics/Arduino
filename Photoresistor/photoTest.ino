@@ -4,8 +4,8 @@
  * If you increase the light intensity, you will see more LEDs light up. 
  * When you place it in dark environment, all the LEDs will go out.
  *********************************************/
-//Email: support@sunfounder.com
-//Website: www.sunfounder.com
+//Email: info@primerobotics.in
+//Website: www.primerobotics.in
 
 const int NbrLEDs = 8;//8 leds
 const int ledPins[] = {5, 6, 7, 8, 9, 10, 11, 12};//8 leds attach to pin 5-12 respectively
