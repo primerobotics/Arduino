@@ -2,8 +2,8 @@
  * name:buzzer
  * function: you should hear the buzzer make sounds.
  *************************************/
-//Email: support@sunfounder.com
-//Website: www.sunfounder.com
+//Email: info@primerobotics.in
+//Website: www.primerobotics.in
 /************************************/
 int buzzer = 12;//the pin of the active buzzer
 void setup()
