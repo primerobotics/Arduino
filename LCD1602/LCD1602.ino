@@ -1,7 +1,7 @@
 //LCD1602
 //You should now see your LCD1602 display the flowing characters "SUNFOUNDER" and "hello, world"
-//Email:support@sunfounder.com
-//Website:www.sunfounder.com
+//Email:info@primerobotics.in
+//Website:www.primerobotics.in
 //2015.5.7 
 #include <LiquidCrystal.h>// include the library code
 /**********************************************************/
